@@ -2,6 +2,7 @@
 ## Markdown : Practica / BY Ivan Yeste Antolí
 
 **Introducción a GitHub**: GitHub es una plataforma en línea que se utiliza principalmente para la gestión de código fuente y el control de versiones colaborativo. Fue fundada en 2008 y se ha convertido en una de las herramientas esenciales para desarrolladores de software, equipos de desarrollo y proyectos de código abierto en todo el mundo.Algunos de sus usos mas frecuentes son:
+
 >#### Control de versiones:
 GitHub utiliza el sistema de control de versiones Git, que permite a los desarrolladores realizar un seguimiento de los cambios en su código fuente a lo largo del tiempo. Esto significa que puedes mantener un historial completo de todas las modificaciones realizadas en tu proyecto, lo que facilita la colaboración y la resolución de problemas.
 
