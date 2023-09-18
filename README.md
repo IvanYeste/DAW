@@ -55,4 +55,4 @@ GitHub es una plataforma en línea que se utiliza principalmente para la gestió
 > En la página de "Your repositories", encontrarás un botón verde llamado "New" (Nuevo) en la esquina superior derecha. Haz clic en él.
 > 4. Completa la información del repositorio:
 > Aparecerá un formulario para configurar tu nuevo repositorio. Una vez rellenado haz clic en el botón verde "Create repository" (Crear repositorio) en la parte inferior de la página.
-> ![Paso] (https://github.com/IvanYeste/DAW/blob/main/Paso4.PNG)
+> ![Paso](https://github.com/IvanYeste/DAW/blob/main/Paso4.PNG)
