@@ -18,10 +18,10 @@ GitHub es una plataforma en línea que se utiliza principalmente para la gestió
 
 >#### Desarrollo de software de código abierto:
 >GitHub es una plataforma popular para proyectos de código abierto, lo que significa que cualquier persona puede acceder al código fuente, colaborar en el desarrollo y contribuir con mejoras. Esto fomenta la comunidad y >permite que proyectos de software estén disponibles de forma gratuita para la comunidad.
+>
 
 
-
-**Pasos a seguir para conseguir diferentes accionnes**:
+**Pasos a seguir para conseguir diferentes acciones**:
  #### Installar en ubuntu:
 
 > 1. Abre una terminal.
