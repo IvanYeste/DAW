@@ -14,5 +14,5 @@ GitHub es un lugar seguro para almacenar y respaldar tu código fuente. Ofrece r
 #### Gestión de problemas y seguimiento de proyectos: GitHub incluye herramientas para el seguimiento de problemas (issues) y la gestión de proyectos. Puedes crear issues para rastrear tareas, errores y mejoras en tu proyecto, asignarlos a miembros del equipo y darles prioridad. Además, puedes organizar issues en proyectos para una gestión más efectiva.
 
 #### Desarrollo de software de código abierto:
-GitHub es una plataforma popular para proyectos de código abierto, lo que significa que cualquier persona puede acceder al código fuente, colaborar en el desarrollo y contribuir con mejoras. Esto fomenta la comunidad y permite que proyectos de software estén disponibles de forma gratuita para la comunidad.>
+GitHub es una plataforma popular para proyectos de código abierto, lo que significa que cualquier persona puede acceder al código fuente, colaborar en el desarrollo y contribuir con mejoras. Esto fomenta la comunidad y >permite que proyectos de software estén disponibles de forma gratuita para la comunidad.
 
