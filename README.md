@@ -27,15 +27,18 @@ GitHub es una plataforma en línea que se utiliza principalmente para la gestió
  #### Installar en ubuntu:
 
 > 1. Abre una terminal.
+
 > 2. Actualiza la lista de paquetes de tu sistema:
 >  ```
 >      --sudo apt update
 >  ```
+
 > 3. Instala Git con el siguiente comando:
 >  ```
 >     --sudo apt install git
 >
 >  ```
+
 > 4. Verifica que Git se haya instalado correctamente:
 >  ```
 >      --git --version
@@ -47,10 +50,10 @@ GitHub es una plataforma en línea que se utiliza principalmente para la gestió
 >
 > 1. Inicia sesión en tu cuenta de GitHub:
 > Asegúrate de que estás conectado a tu cuenta de GitHub en el navegador web.
-> 
+>
+
 > 2. Dirígete a tu perfil:
 > Haz clic en tu foto de perfil en la esquina superior derecha y selecciona "Your repositories" (Tus repositorios) en el menú desplegable.
->
 > ![Paso](https://github.com/IvanYeste/DAW/blob/main/Paso2.PNG)
 
 
