@@ -23,7 +23,7 @@ GitHub es una plataforma en línea que se utiliza principalmente para la gestió
 
 
 
-**Pasos a seguir para conseguir diferentes acciones**:
+## **Pasos a seguir para conseguir diferentes acciones**:
  #### Installar en ubuntu:
 
 > 1. Abre una terminal.
