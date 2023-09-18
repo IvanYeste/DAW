@@ -45,11 +45,13 @@ GitHub es una plataforma en línea que se utiliza principalmente para la gestió
  #### Crear un nuevo Repositorio:
 >Para crear un nuevo repositorio en GitHub, sigue estos pasos:
 >
-> 1.Inicia sesión en tu cuenta de GitHub:
+> 1. Inicia sesión en tu cuenta de GitHub:
 > Asegúrate de que estás conectado a tu cuenta de GitHub en el navegador web.
 > 
-> 2.Dirígete a tu perfil:
+> 2. Dirígete a tu perfil:
 > Haz clic en tu foto de perfil en la esquina superior derecha y selecciona "Your repositories" (Tus repositorios) en el menú desplegable.
 > 
-> 3.Crea un nuevo repositorio:
+> 3. Crea un nuevo repositorio:
 > En la página de "Your repositories", encontrarás un botón verde llamado "New" (Nuevo) en la esquina superior derecha. Haz clic en él.
+> 4. Completa la información del repositorio:
+> Aparecerá un formulario para configurar tu nuevo repositorio. Una vez rellenado haz clic en el botón verde "Create repository" (Crear repositorio) en la parte inferior de la página.
