@@ -26,16 +26,16 @@ GitHub es una plataforma en línea que se utiliza principalmente para la gestió
 
 > 1. Abre una terminal.
 > 2. Actualiza la lista de paquetes de tu sistema:
-  ```
-      --sudo apt update
-  ```
+>  ```
+>      --sudo apt update
+>  ```
 > 3. Instala Git con el siguiente comando:
-  ```
-      --sudo apt install git
-
-  ```
+>  ```
+>     --sudo apt install git
+>
+>  ```
 > 4. Verifica que Git se haya instalado correctamente:
-  ```
-      --git --version
-
-  ```
+>  ```
+>      --git --version
+>
+>  ```
